@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.vscode/
+.env
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.json
+*.pbix
+!/powerbi/DUA_Edu_Dashboard.pbix
